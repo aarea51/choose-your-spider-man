@@ -1,2 +1,5 @@
 # choose-your-spider-man
-Who was the best spider-man?
+Which Spider-Man actor was the best one?
+
+## Motivation
+...
